@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae95deef55e10b848bcef33f48624142
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145114
+  packageName: GPU Instancer - Crowd Animations
+  packageVersion: 1.1.6
+  assetPath: Assets/Prefabs/Chomper_LOD.prefab
+  uploadId: 615090
